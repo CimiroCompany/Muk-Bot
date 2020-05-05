@@ -10,9 +10,7 @@ Muk-Bot is a Discord bot with a lot of features that will help your server as mu
   
 ───────────────────────────────────────────────────
 
-{% hint style="info" %}
 **~** Over 1,000 work hours
-{% endhint %}
 
 ───────────────────────────────────────────────────
 
@@ -23,9 +21,7 @@ Muk-Bot is a Discord bot with a lot of features that will help your server as mu
 
 ───────────────────────────────────────────────────
 
-{% hint style="info" %}
 **~** 5 member staff team
-{% endhint %}
 
 ───────────────────────────────────────────────────
 
