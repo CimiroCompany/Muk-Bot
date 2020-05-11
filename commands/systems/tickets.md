@@ -6,6 +6,10 @@ description: >-
 
 # Tickets
 
+{% hint style="warning" %}
+`Bot prefix:` **m&gt;**
+{% endhint %}
+
 ## m&gt;Tsetup
 
 ![With this command you can setup the ticket system.](../../.gitbook/assets/1%20%281%29.png)
