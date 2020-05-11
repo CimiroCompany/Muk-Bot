@@ -18,33 +18,33 @@ description: The info commands will give you information about stuff
 
 ## **m&gt;info**
 
-**Gives information about the bot**
+**Gives information about the bot.**
 
 ## **m&gt;BotInfo**
 
-**Gives information about the bot**
+**Gives information about the bot.**
 
 ## **m&gt;RoleInfo**
 
-**Gives information about a role**
+**Gives information about a role.**
 
 ## **m&gt;ServerInfo**
 
-**Gives information about the server**
+**Gives information about the server.**
 
 ## **m&gt;ServerIcon**
 
-**Shows the server icon**
+**Shows the server icon.**
 
 ## **m&gt;ChannelInfo**
 
-**Gives information about the channel**
+**Gives information about the channel.**
 
 ## **m&gt;UserInfo**
 
-**Gives information about the user**
+**Gives information about the user.**
 
 ## **m&gt;GetAvatar**
 
-Shows the avatar from a user
+**Shows the avatar from a user.**
 
