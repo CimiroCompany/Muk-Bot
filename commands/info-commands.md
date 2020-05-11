@@ -1,3 +1,7 @@
+---
+description: The info commands will give you information about stuff
+---
+
 # Info commands
 
 {% hint style="warning" %}
