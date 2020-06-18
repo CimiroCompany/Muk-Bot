@@ -6,7 +6,7 @@ description: See how the profile system works.
 
 ## m&gt;profile
 
-**See someones profile.**
+**See your own or someone else their profile.**
 
 ## m&gt;name
 
